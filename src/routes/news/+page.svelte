@@ -14,7 +14,5 @@
 <Newo title="News" slogan="Very interesting news" link="https://google.com">
     Newnewnewnewnewnewnewnewnewnewnewsss..........
 </Newo>
-</div>
 <Newo title="Second new" slogan="This is news!">What`s happen?</Newo>
-
 </div>
